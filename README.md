@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LEO-DAC
-- 👀 I’m interested in Laravel 8, PHP and JS
+- 👀 I’m interested in Reactjs, PHP and Angular
 - 🌱 I’m currently learning Vue.js and React.js 
 - 💞️ I’m looking to collaborate on Biggest Projects of Mobile Apps and Web Apps
 - 📫 How to reach me ...
